@@ -1,8 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\http\Controllers\ClientController;
-use App\http\Controllers\EtudiantController;
+use App\Http\Controllers\ClientController;
+use App\Http\Controllers\EtudiantController;
 use App\Http\Controllers\MatieresController;
 /*
 |--------------------------------------------------------------------------
