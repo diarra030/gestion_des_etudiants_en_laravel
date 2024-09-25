@@ -46,8 +46,8 @@
       </nav>
 
 
-      <div class="container" style="display:flex; justify-content:center; align-item-center">
-        <h1>
+      <div class="container" style="display:flex; justify-content:center; align-item-center; margin-top:15rem;">
+        <h1 style="color: rgb(63, 31, 31);text-align:center ">
           BIENVENUE SUR LA PLATEFORME DE GESTION DES ETUDIANTS
         </h1>
       </div>
